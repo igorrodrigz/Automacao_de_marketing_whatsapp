@@ -1,0 +1,19 @@
+MR Solutions WhatsApp Marketing
+Descrição
+Este programa automatiza o envio de mensagens de marketing via WhatsApp para contatos listados em uma planilha Excel. Ele utiliza a biblioteca pywhatkit para enviar mensagens de texto e imagens aos contatos especificados.
+
+Funcionalidades
+Envia uma mensagem de saudação seguida de uma imagem promocional e um link para os contatos listados em uma planilha Excel.
+O programa aguarda um intervalo entre o envio de mensagens para evitar bloqueios ou sobrecarga do serviço.
+Pré-requisitos
+Python 3.x instalado.
+Bibliotecas necessárias: pywhatkit, openpyxl.
+Uso
+Coloque os números de telefone e outras informações relevantes na planilha Excel contatos.xlsx.
+Certifique-se de que a planilha contém os números de telefone dos destinatários na primeira coluna.
+Execute o programa.
+Observações
+É importante fornecer permissão para acesso ao WhatsApp Web no momento da execução do programa.
+Certifique-se de que o arquivo Img_Mr_Solutions_Atendimento.jpeg esteja presente no caminho especificado.
+Autor
+Este programa foi desenvolvido por Igor Rodrigues como parte da estratégia de marketing da MR Solutions.
